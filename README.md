@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there! i'm Jesus Arenas.
 
-<!--
-**JesusArenas4/JesusArenas4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ 1. `I am a systems engineering student at the Universidad del Valle in Colombia.`
+ 2. `I like team work`
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
